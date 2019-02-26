@@ -1,0 +1,19 @@
+---
+title: Template for Markdown Documentations
+subtitle: This is my personal template
+author:
+  - Ralph Huwiler
+date: "23.12.2018"
+rights:  Creative Commons Attribution 4.0 International
+lang: en
+
+bibliography: bibliography.bib
+
+titlepage: true
+titlepage-color: "06386e" 
+titlepage-text-color: "FFFFFF"
+titlepage-rule-color: "FFFFFF"
+titlepage-rule-height: 2
+toc-own-page: true
+listings-disable-line-numbers: true
+---

@@ -1,0 +1,48 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.12.18)  23 DEC 2018 12:51
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/home/ralph/Google Drive/education/FHNW/cysL/Assignment 2/templates/eisvogel.tex"
+(/home/ralph/Google Drive/education/FHNW/cysL/Assignment 2/templates/eisvogel.tex
+LaTeX2e <2018-04-01> patch level 5
+
+/home/ralph/Google Drive/education/FHNW/cysL/Assignment 2/templates/eisvogel.tex:44: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 $
+      if(dir)$$if(latex-dir-rtl)$
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 44.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 44.
+
+! LaTeX Error: File `$if(book)$scrbook$else$scrartcl$endif$.cls' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: cls)
+
+Enter file name: 
+/home/ralph/Google Drive/education/FHNW/cysL/Assignment 2/templates/eisvogel.tex:48: Emergency stop.
+<read *> 
+         
+l.48 \usepackage
+                {graphicx}^^M
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 17 strings out of 492639
+ 608 string characters out of 6135496
+ 60997 words of memory out of 5000000
+ 4003 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 18i,1n,12p,435b,56s stack positions out of 5000i,500n,10000p,200000b,80000s
+/home/ralph/Google Drive/education/FHNW/cysL/Assignment 2/templates/eisvogel.tex:48:  ==> Fatal error occurred, no output PDF file produced!

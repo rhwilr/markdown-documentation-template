@@ -1,0 +1,11 @@
+# Fdb version 3
+["pdflatex"] 1545565901 "/home/ralph/Google Drive/education/FHNW/cysL/Assignment 2/templates/eisvogel.tex" "eisvogel.pdf" "eisvogel" 1545565901
+  "$if(book)$scrbook$else$scrartcl$endif$.cls" 0 -1 0 ""
+  "/home/ralph/Google Drive/education/FHNW/cysL/Assignment 2/templates/eisvogel.tex" 1545565900 23147 055b4f47eb213e2a219684e67b124141 ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1543696176 33301 a3134070eacafb10b1f371612ce2650d ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1545131505 7910429 f6557d5d6e83653494d140794bb9db76 ""
+  "eisvogel.aux" 1545565901 8 a94a2480d3289e625eea47cd1b285758 ""
+  "eisvogel.tex" 1545565900 23147 055b4f47eb213e2a219684e67b124141 ""
+  (generated)
+  "eisvogel.log"
+  "eisvogel.pdf"
