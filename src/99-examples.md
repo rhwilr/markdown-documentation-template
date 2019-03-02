@@ -30,6 +30,23 @@ echo "Test" > /tmp/banane.txt
 
 ### Listing
 
+[[\begin{figure}[H]
+  \centering
+  \begin{lstlisting}[frame=single]
+  ---
+  DKIM-Signature a=rsa-sha1; q=dns;d=short.cysl.gwerder.net;
+  s=201811; c=relaxed/relaxed;t=1117574938; 
+  x=1118006938;h=from:to:subject:date;
+  b=dzdVyOfAKCdLXdJOc9G2q8LoXSlEniSbav+yuU4zGeeruD00lszZVoG4ZHRNiYzR
+  ---
+  \end{lstlisting}
+  \caption{Example DKIM-Signatur}
+  \label{fig:dkim}
+\end{figure}
+
+
+### Image
+
 \begin{figure}[H]
   \centering
   \begin{lstlisting}[frame=single]
@@ -47,10 +64,9 @@ echo "Test" > /tmp/banane.txt
 
 ### Image
 
-
 \begin{figure}
   \centering
-  \includegraphics{attachments/image.png}
-  \caption{Die SBB lässt ihre Mails von inxserver.com signieren}
-  \label{fig:sbb-gmail}
+  \includegraphics{images/image.jpg}
+  \caption{Sample image}
+  \label{fig:sample-image}
 \end{figure}
