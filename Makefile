@@ -28,7 +28,7 @@ ARGS = --from markdown \
 		--top-level-division=chapter \
 		--pdf-engine=xelatex \
 		--highlight-style breezedark \
-		--filter pandoc-citeproc \
+		--citeproc \
 		--csl=bibliography.csl \
 		--listings 
 
