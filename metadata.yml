@@ -16,4 +16,7 @@ titlepage-rule-color: "FFFFFF"
 titlepage-rule-height: 2
 toc-own-page: true
 listings-disable-line-numbers: true
+
+# Eisvogel configuration
+graphics: true
 ---
